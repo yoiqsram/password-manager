@@ -1,0 +1,6 @@
+name: password-manager
+channels:
+  - defaults
+dependencies:
+  - pycryptodome
+  - python=3.10
